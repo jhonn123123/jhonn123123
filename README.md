@@ -72,14 +72,20 @@ const jhonn = {
       <h3><a href="https://github.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa">Smart Doorbell with Alexa</a></h3>
      <img src="https://github.com/jhonn123123/Smart-doorbell-nodemcu-esp8266-Alexa/blob/master/img/gif.gif" width="235" height="300" >
     </div>
+  </div>
+  
+  <div class="row">
     <div class="col-sm">
-      
-      <h3><a href="https://github.com/jhonn123123/Reconocimiento-de-objetos-geometricos-en-Python">object recognition</a></h3>
-     <img src="https://github.com/jhonn123123/Reconocimiento-de-objetos-geometricos-en-Python/blob/master/gif.gif" width="235" height="300" >
-      
+      <h3><a href="https://github.com/jhonn123123/Reconocimiento-de-objetos-geometricos-en-Python">Object Recognition</a></h3>
+     <img src="https://github.com/jhonn123123/Reconocimiento-de-objetos-geometricos-en-Python/blob/master/gif.gif" width="500" height="300" >
     </div>
+    
+   <div class="row">
     <div class="col-sm">
-      .
+      <h3><a href="https://github.com/jhonn123123/Data_science">data science</a></h3>
+     <img src="https://raw.githubusercontent.com/jhonn123123/Data_science/master/Machine-Learning_Clustering/img/img2.png" width="500" height="300" >
     </div>
+    
+
   </div>
 </div>  
