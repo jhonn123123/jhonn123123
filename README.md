@@ -39,7 +39,7 @@ const jhonn = {
 
 - 📄 Know about my experience <a href="https://drive.google.com/file/d/1MDKk_LsiEYvC-NJVa2EjXVP-nmpNyrBR/view?usp=sharing" target="_blank">resume
   
-- Certificates: <a href="https://drive.google.com/drive/folders/1xn2WUp3wDG25O9Vo6lwumbCwMq1pcyV7?usp=sharin)" target="blank"><img align="center"  height="30" width="40" />Certificados</a>
+- Certificates: <a href="https://drive.google.com/drive/folders/1xn2WUp3wDG25O9Vo6lwumbCwMq1pcyV7?usp=sharin)" target="blank"><img align="center"  height="30" width="40" />Certificates</a>
   
 <hr>
 <br>
